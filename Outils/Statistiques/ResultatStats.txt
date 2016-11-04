@@ -1,0 +1,1302 @@
+Result/archive_non_dominees1.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026225
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.150248
+mediane : 0.053955
+barycentre : [0.09302239578254695, 0.10856060624721017, 0.0017525143200480852]
+dist_G_origine : 0.142974
+ecart_type : 0.196411
+coeff_var : 1.307244
+Taux de Faux positifs : 7.653061 %
+Taux de Vrais positifs : 64.874552 %
+
+
+
+Result/archive_non_dominees2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.143957
+mediane : 0.082897
+barycentre : [0.08711037243140095, 0.10606603149040114, 0.0017523364454770172]
+dist_G_origine : 0.137264
+ecart_type : 0.180662
+coeff_var : 1.254970
+Taux de Faux positifs : 20.930233 %
+Taux de Vrais positifs : 60.931900 %
+
+
+
+Result/archive_non_dominees3.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.134257
+mediane : 0.122474
+barycentre : [0.08334971311815183, 0.09725349887361709, 0.0017529009885731855]
+dist_G_origine : 0.128096
+ecart_type : 0.155231
+coeff_var : 1.156218
+Taux de Faux positifs : 9.375000 %
+Taux de Vrais positifs : 62.365591 %
+
+
+
+Result/archive_non_dominees4.txt
+
+max_sigmax : 5.625295
+min_sigmax : 0.026263
+max_sigmay : 8.255615
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001728
+max_rac_sigmas : 9.989951
+min_rac_sigmas : 0.038073
+moyenne : 0.174694
+mediane : 0.208887
+barycentre : [0.10354338894800796, 0.13243804468202577, 0.001753088071243985]
+dist_G_origine : 0.168119
+ecart_type : 0.643911
+coeff_var : 3.685929
+Taux de Faux positifs : 15.816327 %
+Taux de Vrais positifs : 59.139785 %
+
+
+
+Result/archive_non_dominees5.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.141391
+mediane : 0.291397
+barycentre : [0.08431585118325076, 0.10493603200759047, 0.0017518816510431454]
+dist_G_origine : 0.134625
+ecart_type : 0.161720
+coeff_var : 1.143778
+Taux de Faux positifs : 12.041885 %
+Taux de Vrais positifs : 60.215054 %
+
+
+
+Result/archive_non_dominees_1.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026225
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.139509
+mediane : 0.121500
+barycentre : [0.08375502731985388, 0.10394518057524847, 0.0017525923266022078]
+dist_G_origine : 0.133501
+ecart_type : 0.156992
+coeff_var : 1.125317
+Taux de Faux positifs : 14.572864 %
+Taux de Vrais positifs : 60.931900 %
+
+
+
+Result/archive_non_dominees_1_2.txt
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 0.286503
+mediane : 0.085183
+barycentre : [0.22153520299377408, 0.15055552827859017, 0.0017530971862518778]
+dist_G_origine : 0.267858
+ecart_type : 3.682819
+coeff_var : 12.854404
+Taux de Faux positifs : 12.820513 %
+Taux de Vrais positifs : 60.931900 %
+
+
+
+Result/archive_non_dominees_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026092
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.144050
+mediane : 0.177671
+barycentre : [0.08393227941380133, 0.10770520087113755, 0.0017513512073639053]
+dist_G_origine : 0.136558
+ecart_type : 0.195340
+coeff_var : 1.356056
+Taux de Faux positifs : 13.679245 %
+Taux de Vrais positifs : 65.591398 %
+
+
+
+Result/archive_non_dominees_2_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.138980
+mediane : 0.157174
+barycentre : [0.0819276744718394, 0.10442447609746676, 0.001751663320885713]
+dist_G_origine : 0.132739
+ecart_type : 0.168317
+coeff_var : 1.211087
+Taux de Faux positifs : 7.650273 %
+Taux de Vrais positifs : 60.573477 %
+
+
+
+Result/archive_non_dominees_3.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.135308
+mediane : 0.085063
+barycentre : [0.07998156030717526, 0.10125690663967245, 0.0017524539332080206]
+dist_G_origine : 0.129047
+ecart_type : 0.150686
+coeff_var : 1.113650
+Taux de Faux positifs : 7.537688 %
+Taux de Vrais positifs : 65.949821 %
+
+
+
+Result/archive_non_dominees_3_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.141956
+mediane : 0.067412
+barycentre : [0.08410387936699479, 0.10649168604166206, 0.0017526359369554835]
+dist_G_origine : 0.135709
+ecart_type : 0.152228
+coeff_var : 1.072359
+Taux de Faux positifs : 8.205128 %
+Taux de Vrais positifs : 64.157706 %
+
+
+
+Result/archive_non_dominees_4.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.027170
+max_sigmay : 0.832829
+min_sigmay : 0.027699
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.039403
+moyenne : 0.139648
+mediane : 0.124729
+barycentre : [0.08483471985621242, 0.10188884828419988, 0.0017528521726445868]
+dist_G_origine : 0.132595
+ecart_type : 0.180600
+coeff_var : 1.293253
+Taux de Faux positifs : 17.910448 %
+Taux de Vrais positifs : 59.139785 %
+
+
+
+Result/archive_non_dominees_4_2.txt
+
+max_sigmax : 97.974408
+min_sigmax : 0.026263
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 0.629217
+mediane : 0.184829
+barycentre : [0.5594913582637938, 0.23468004441522491, 0.0017530187585802453]
+dist_G_origine : 0.606719
+ecart_type : 7.122172
+coeff_var : 11.319095
+Taux de Faux positifs : 10.784314 %
+Taux de Vrais positifs : 65.232975 %
+
+
+
+Result/archive_non_dominees_5.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.132456
+mediane : 0.091903
+barycentre : [0.08085212612655525, 0.09751774174180147, 0.0017529141267260072]
+dist_G_origine : 0.126688
+ecart_type : 0.162978
+coeff_var : 1.230434
+Taux de Faux positifs : 21.052632 %
+Taux de Vrais positifs : 59.139785 %
+
+
+
+Result/archive_non_dominees_5_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.027170
+max_sigmay : 0.832829
+min_sigmay : 0.027699
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.039403
+moyenne : 0.136926
+mediane : 0.124729
+barycentre : [0.08319693100823981, 0.10167179612692266, 0.0017520685882841357]
+dist_G_origine : 0.131385
+ecart_type : 0.166783
+coeff_var : 1.218049
+Taux de Faux positifs : 20.689655 %
+Taux de Vrais positifs : 57.706093 %
+
+
+
+Result/FichierFauxPositifJoin.txt
+
+max_sigmax : 0.473275
+min_sigmax : 0.027844
+max_sigmay : 0.184445
+min_sigmay : 0.028845
+max_sigmaz : 0.001753
+min_sigmaz : 0.001753
+max_rac_sigmas : 0.488600
+min_rac_sigmas : 0.040178
+moyenne : 0.077611
+mediane : 0.090268
+barycentre : [0.05191833359030767, 0.05532379586481656, 0.001753337868723669]
+dist_G_origine : 0.075890
+ecart_type : 0.054683
+coeff_var : 0.704575
+Taux de Faux positifs : 100.000000 %
+Taux de Vrais positifs : 0.000000 %
+
+
+
+Result/fichierFauxPositifsMOGA.txt
+
+max_sigmax : 271.983507
+min_sigmax : 0.629228
+max_sigmay : 596.657694
+min_sigmay : 0.585271
+max_sigmaz : 0.001754
+min_sigmaz : 0.001740
+max_rac_sigmas : 612.274304
+min_rac_sigmas : 0.873278
+moyenne : 160.236848
+mediane : 612.274304
+barycentre : [85.97388919006546, 122.98111294581363, 0.0017503701512909093]
+dist_G_origine : 150.052870
+ecart_type : 204.466687
+coeff_var : 1.276028
+Taux de Faux positifs : 100.000000 %
+Taux de Vrais positifs : 0.000000 %
+
+
+
+Result/FichierJOIN.txt
+
+max_sigmax : 1.310599
+min_sigmax : 0.026092
+max_sigmay : 1.011524
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001753
+max_rac_sigmas : 1.655552
+min_rac_sigmas : 0.038073
+moyenne : 0.088671
+mediane : 0.093462
+barycentre : [0.05677646931268702, 0.06548280133190112, 0.001753349119593412]
+dist_G_origine : 0.086687
+ecart_type : 0.094941
+coeff_var : 1.070712
+Taux de Faux positifs : 39.764706 %
+Taux de Vrais positifs : 91.756272 %
+
+
+
+Result/fichierMOGA.txt
+
+max_sigmax : 271.983507
+min_sigmax : 0.026092
+max_sigmay : 596.657694
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001740
+max_rac_sigmas : 612.274304
+min_rac_sigmas : 0.038073
+moyenne : 36.127046
+mediane : 0.059968
+barycentre : [19.405249466798956, 27.719582510826335, 0.0017527669887428573]
+dist_G_origine : 33.836947
+ecart_type : 117.660723
+coeff_var : 3.256860
+Taux de Faux positifs : 22.448980 %
+Taux de Vrais positifs : 13.620072 %
+
+
+
+Result/FichierVraiPositifJoin.txt
+
+max_sigmax : 1.310599
+min_sigmax : 0.026092
+max_sigmay : 1.011524
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001753
+max_rac_sigmas : 1.655552
+min_rac_sigmas : 0.038073
+moyenne : 0.095972
+mediane : 0.056017
+barycentre : [0.05998359797316406, 0.07218933228478125, 0.0017533565469253895]
+dist_G_origine : 0.093874
+ecart_type : 0.113385
+coeff_var : 1.181442
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 91.756272 %
+
+
+
+Result/fichierVraiPositifsMOGA.txt
+
+max_sigmax : 1.310599
+min_sigmax : 0.026092
+max_sigmay : 1.011524
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001753
+max_rac_sigmas : 1.655552
+min_rac_sigmas : 0.038073
+moyenne : 0.200525
+mediane : 0.083727
+barycentre : [0.13538007322181583, 0.14387633227736843, 0.0017534608101105263]
+dist_G_origine : 0.197563
+ecart_type : 0.256905
+coeff_var : 1.281161
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 13.620072 %
+
+
+
+Result/final_archive_01.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.166334
+mediane : 1.229890
+barycentre : [2.7687231994761667, 1.2680222365942144, 0.0017515311306190472]
+dist_G_origine : 3.045277
+ecart_type : 15.565009
+coeff_var : 4.915783
+Taux de Faux positifs : 16.666667 %
+Taux de Vrais positifs : 12.544803 %
+
+
+
+Result/final_archive_02.out_modif
+
+max_sigmax : 264.309980
+min_sigmax : 0.026092
+max_sigmay : 178.560545
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 318.972779
+min_rac_sigmas : 0.038073
+moyenne : 15.606521
+mediane : 0.205664
+barycentre : [12.898772566854369, 8.766183063319925, 0.0017469074170585362]
+dist_G_origine : 15.595650
+ecart_type : 67.839976
+coeff_var : 4.346899
+Taux de Faux positifs : 4.878049 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/final_archive_03.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.166334
+mediane : 0.156620
+barycentre : [2.7687231994761663, 1.2680222365942142, 0.0017515311306190477]
+dist_G_origine : 3.045277
+ecart_type : 15.565009
+coeff_var : 4.915783
+Taux de Faux positifs : 16.666667 %
+Taux de Vrais positifs : 12.544803 %
+
+
+
+Result/final_archive_04.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.095731
+mediane : 0.245748
+barycentre : [2.7068431940253252, 1.2402372156765116, 0.00175157296122093]
+dist_G_origine : 2.977447
+ecart_type : 15.389760
+coeff_var : 4.971284
+Taux de Faux positifs : 16.279070 %
+Taux de Vrais positifs : 12.903226 %
+
+
+
+Result/final_archive_05.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.095731
+mediane : 0.059968
+barycentre : [2.7068431940253244, 1.2402372156765118, 0.0017515729612209297]
+dist_G_origine : 2.977447
+ecart_type : 15.389760
+coeff_var : 4.971284
+Taux de Faux positifs : 16.279070 %
+Taux de Vrais positifs : 12.903226 %
+
+
+
+Result/final_archive_06.out_modif
+
+max_sigmax : 1.314812
+min_sigmax : 0.026092
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.245127
+mediane : 0.139119
+barycentre : [0.16494419207766667, 0.1732055501568462, 0.001746905406817949]
+dist_G_origine : 0.239186
+ecart_type : 0.305153
+coeff_var : 1.244877
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/final_archive_07.out_modif
+
+max_sigmax : 294.093772
+min_sigmax : 0.026092
+max_sigmay : 1277.100028
+min_sigmay : 0.027509
+max_sigmaz : 0.001779
+min_sigmaz : 0.001525
+max_rac_sigmas : 1310.524944
+min_rac_sigmas : 0.038073
+moyenne : 53.523485
+mediane : 0.204703
+barycentre : [22.799072092184524, 45.427009256664775, 0.0017478960476863638]
+dist_G_origine : 50.827265
+ecart_type : 210.720288
+coeff_var : 3.936969
+Taux de Faux positifs : 9.090909 %
+Taux de Vrais positifs : 14.336918 %
+
+
+
+Result/final_archive_08.out_modif
+
+max_sigmax : 294.093772
+min_sigmax : 0.026092
+max_sigmay : 1277.100028
+min_sigmay : 0.027509
+max_sigmaz : 0.001779
+min_sigmaz : 0.001525
+max_rac_sigmas : 1310.524944
+min_rac_sigmas : 0.038073
+moyenne : 46.437912
+mediane : 0.155363
+barycentre : [19.593891591214977, 38.9646079522885, 0.0017476675194666668]
+dist_G_origine : 43.613774
+ecart_type : 208.485602
+coeff_var : 4.489556
+Taux de Faux positifs : 7.142857 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/final_archive_09.out_modif
+
+max_sigmax : 294.093772
+min_sigmax : 0.026092
+max_sigmay : 1277.100028
+min_sigmay : 0.027509
+max_sigmaz : 0.001779
+min_sigmaz : 0.001525
+max_rac_sigmas : 1310.524944
+min_rac_sigmas : 0.038073
+moyenne : 53.523485
+mediane : 156.418051
+barycentre : [22.79907209218452, 45.427009256664775, 0.0017478960476863638]
+dist_G_origine : 50.827265
+ecart_type : 210.720288
+coeff_var : 3.936969
+Taux de Faux positifs : 9.090909 %
+Taux de Vrais positifs : 14.336918 %
+
+
+
+Result/final_archive_10.out_modif
+
+max_sigmax : 1.314812
+min_sigmax : 0.026092
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.245127
+mediane : 0.059968
+barycentre : [0.16494419207766667, 0.17320555015684616, 0.0017469054068179489]
+dist_G_origine : 0.239186
+ecart_type : 0.305153
+coeff_var : 1.244877
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/archive_non_dominees1.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026225
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.150248
+mediane : 0.053955
+barycentre : [0.09302239578254695, 0.10856060624721017, 0.0017525143200480852]
+dist_G_origine : 0.142974
+ecart_type : 0.196411
+coeff_var : 1.307244
+Taux de Faux positifs : 7.653061 %
+Taux de Vrais positifs : 64.874552 %
+
+
+
+Result/archive_non_dominees2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.143957
+mediane : 0.082897
+barycentre : [0.08711037243140095, 0.10606603149040114, 0.0017523364454770172]
+dist_G_origine : 0.137264
+ecart_type : 0.180662
+coeff_var : 1.254970
+Taux de Faux positifs : 20.930233 %
+Taux de Vrais positifs : 60.931900 %
+
+
+
+Result/archive_non_dominees3.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.134257
+mediane : 0.122474
+barycentre : [0.08334971311815183, 0.09725349887361709, 0.0017529009885731855]
+dist_G_origine : 0.128096
+ecart_type : 0.155231
+coeff_var : 1.156218
+Taux de Faux positifs : 9.375000 %
+Taux de Vrais positifs : 62.365591 %
+
+
+
+Result/archive_non_dominees4.txt
+
+max_sigmax : 5.625295
+min_sigmax : 0.026263
+max_sigmay : 8.255615
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001728
+max_rac_sigmas : 9.989951
+min_rac_sigmas : 0.038073
+moyenne : 0.174694
+mediane : 0.208887
+barycentre : [0.10354338894800796, 0.13243804468202577, 0.001753088071243985]
+dist_G_origine : 0.168119
+ecart_type : 0.643911
+coeff_var : 3.685929
+Taux de Faux positifs : 15.816327 %
+Taux de Vrais positifs : 59.139785 %
+
+
+
+Result/archive_non_dominees5.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.141391
+mediane : 0.291397
+barycentre : [0.08431585118325076, 0.10493603200759047, 0.0017518816510431454]
+dist_G_origine : 0.134625
+ecart_type : 0.161720
+coeff_var : 1.143778
+Taux de Faux positifs : 12.041885 %
+Taux de Vrais positifs : 60.215054 %
+
+
+
+Result/archive_non_dominees_1.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026225
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.139509
+mediane : 0.121500
+barycentre : [0.08375502731985388, 0.10394518057524847, 0.0017525923266022078]
+dist_G_origine : 0.133501
+ecart_type : 0.156992
+coeff_var : 1.125317
+Taux de Faux positifs : 14.572864 %
+Taux de Vrais positifs : 60.931900 %
+
+
+
+Result/archive_non_dominees_1_2.txt
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 0.286503
+mediane : 0.085183
+barycentre : [0.22153520299377408, 0.15055552827859017, 0.0017530971862518778]
+dist_G_origine : 0.267858
+ecart_type : 3.682819
+coeff_var : 12.854404
+Taux de Faux positifs : 12.820513 %
+Taux de Vrais positifs : 60.931900 %
+
+
+
+Result/archive_non_dominees_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026092
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.144050
+mediane : 0.177671
+barycentre : [0.08393227941380133, 0.10770520087113755, 0.0017513512073639053]
+dist_G_origine : 0.136558
+ecart_type : 0.195340
+coeff_var : 1.356056
+Taux de Faux positifs : 13.679245 %
+Taux de Vrais positifs : 65.591398 %
+
+
+
+Result/archive_non_dominees_2_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.138980
+mediane : 0.157174
+barycentre : [0.0819276744718394, 0.10442447609746676, 0.001751663320885713]
+dist_G_origine : 0.132739
+ecart_type : 0.168317
+coeff_var : 1.211087
+Taux de Faux positifs : 7.650273 %
+Taux de Vrais positifs : 60.573477 %
+
+
+
+Result/archive_non_dominees_3.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.135308
+mediane : 0.085063
+barycentre : [0.07998156030717526, 0.10125690663967245, 0.0017524539332080206]
+dist_G_origine : 0.129047
+ecart_type : 0.150686
+coeff_var : 1.113650
+Taux de Faux positifs : 7.537688 %
+Taux de Vrais positifs : 65.949821 %
+
+
+
+Result/archive_non_dominees_3_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.141956
+mediane : 0.067412
+barycentre : [0.08410387936699479, 0.10649168604166206, 0.0017526359369554835]
+dist_G_origine : 0.135709
+ecart_type : 0.152228
+coeff_var : 1.072359
+Taux de Faux positifs : 8.205128 %
+Taux de Vrais positifs : 64.157706 %
+
+
+
+Result/archive_non_dominees_4.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.027170
+max_sigmay : 0.832829
+min_sigmay : 0.027699
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.039403
+moyenne : 0.139648
+mediane : 0.124729
+barycentre : [0.08483471985621242, 0.10188884828419988, 0.0017528521726445868]
+dist_G_origine : 0.132595
+ecart_type : 0.180600
+coeff_var : 1.293253
+Taux de Faux positifs : 17.910448 %
+Taux de Vrais positifs : 59.139785 %
+
+
+
+Result/archive_non_dominees_4_2.txt
+
+max_sigmax : 97.974408
+min_sigmax : 0.026263
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 0.629217
+mediane : 0.184829
+barycentre : [0.5594913582637938, 0.23468004441522491, 0.0017530187585802453]
+dist_G_origine : 0.606719
+ecart_type : 7.122172
+coeff_var : 11.319095
+Taux de Faux positifs : 10.784314 %
+Taux de Vrais positifs : 65.232975 %
+
+
+
+Result/archive_non_dominees_5.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.026263
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.132456
+mediane : 0.091903
+barycentre : [0.08085212612655525, 0.09751774174180147, 0.0017529141267260072]
+dist_G_origine : 0.126688
+ecart_type : 0.162978
+coeff_var : 1.230434
+Taux de Faux positifs : 21.052632 %
+Taux de Vrais positifs : 59.139785 %
+
+
+
+Result/archive_non_dominees_5_2.txt
+
+max_sigmax : 1.314812
+min_sigmax : 0.027170
+max_sigmay : 0.832829
+min_sigmay : 0.027699
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.039403
+moyenne : 0.136926
+mediane : 0.124729
+barycentre : [0.08319693100823981, 0.10167179612692266, 0.0017520685882841357]
+dist_G_origine : 0.131385
+ecart_type : 0.166783
+coeff_var : 1.218049
+Taux de Faux positifs : 20.689655 %
+Taux de Vrais positifs : 57.706093 %
+
+
+
+Result/FichierFauxPositifJoin.txt
+
+max_sigmax : 0.473275
+min_sigmax : 0.027844
+max_sigmay : 0.184445
+min_sigmay : 0.028845
+max_sigmaz : 0.001753
+min_sigmaz : 0.001753
+max_rac_sigmas : 0.488600
+min_rac_sigmas : 0.040178
+moyenne : 0.077611
+mediane : 0.090268
+barycentre : [0.05191833359030767, 0.05532379586481656, 0.001753337868723669]
+dist_G_origine : 0.075890
+ecart_type : 0.054683
+coeff_var : 0.704575
+Taux de Faux positifs : 100.000000 %
+Taux de Vrais positifs : 0.000000 %
+
+
+
+Result/fichierFauxPositifsMOGA.txt
+
+max_sigmax : 271.983507
+min_sigmax : 0.629228
+max_sigmay : 596.657694
+min_sigmay : 0.585271
+max_sigmaz : 0.001754
+min_sigmaz : 0.001740
+max_rac_sigmas : 612.274304
+min_rac_sigmas : 0.873278
+moyenne : 160.236848
+mediane : 612.274304
+barycentre : [85.97388919006546, 122.98111294581363, 0.0017503701512909093]
+dist_G_origine : 150.052870
+ecart_type : 204.466687
+coeff_var : 1.276028
+Taux de Faux positifs : 100.000000 %
+Taux de Vrais positifs : 0.000000 %
+
+
+
+Result/FichierJOIN.txt
+
+max_sigmax : 1.310599
+min_sigmax : 0.026092
+max_sigmay : 1.011524
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001753
+max_rac_sigmas : 1.655552
+min_rac_sigmas : 0.038073
+moyenne : 0.088671
+mediane : 0.093462
+barycentre : [0.05677646931268702, 0.06548280133190112, 0.001753349119593412]
+dist_G_origine : 0.086687
+ecart_type : 0.094941
+coeff_var : 1.070712
+Taux de Faux positifs : 39.764706 %
+Taux de Vrais positifs : 91.756272 %
+
+
+
+Result/fichierMOGA.txt
+
+max_sigmax : 271.983507
+min_sigmax : 0.026092
+max_sigmay : 596.657694
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001740
+max_rac_sigmas : 612.274304
+min_rac_sigmas : 0.038073
+moyenne : 36.127046
+mediane : 0.059968
+barycentre : [19.405249466798956, 27.719582510826335, 0.0017527669887428573]
+dist_G_origine : 33.836947
+ecart_type : 117.660723
+coeff_var : 3.256860
+Taux de Faux positifs : 22.448980 %
+Taux de Vrais positifs : 13.620072 %
+
+
+
+Result/FichierVraiPositifJoin.txt
+
+max_sigmax : 1.310599
+min_sigmax : 0.026092
+max_sigmay : 1.011524
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001753
+max_rac_sigmas : 1.655552
+min_rac_sigmas : 0.038073
+moyenne : 0.095972
+mediane : 0.056017
+barycentre : [0.05998359797316406, 0.07218933228478125, 0.0017533565469253895]
+dist_G_origine : 0.093874
+ecart_type : 0.113385
+coeff_var : 1.181442
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 91.756272 %
+
+
+
+Result/fichierVraiPositifsMOGA.txt
+
+max_sigmax : 1.310599
+min_sigmax : 0.026092
+max_sigmay : 1.011524
+min_sigmay : 0.027509
+max_sigmaz : 0.001757
+min_sigmaz : 0.001753
+max_rac_sigmas : 1.655552
+min_rac_sigmas : 0.038073
+moyenne : 0.200525
+mediane : 0.083727
+barycentre : [0.13538007322181583, 0.14387633227736843, 0.0017534608101105263]
+dist_G_origine : 0.197563
+ecart_type : 0.256905
+coeff_var : 1.281161
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 13.620072 %
+
+
+
+Result/final_archive_01.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.166334
+mediane : 1.229890
+barycentre : [2.7687231994761667, 1.2680222365942144, 0.0017515311306190472]
+dist_G_origine : 3.045277
+ecart_type : 15.565009
+coeff_var : 4.915783
+Taux de Faux positifs : 16.666667 %
+Taux de Vrais positifs : 12.544803 %
+
+
+
+Result/final_archive_02.out_modif
+
+max_sigmax : 264.309980
+min_sigmax : 0.026092
+max_sigmay : 178.560545
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 318.972779
+min_rac_sigmas : 0.038073
+moyenne : 15.606521
+mediane : 0.205664
+barycentre : [12.898772566854369, 8.766183063319925, 0.0017469074170585362]
+dist_G_origine : 15.595650
+ecart_type : 67.839976
+coeff_var : 4.346899
+Taux de Faux positifs : 4.878049 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/final_archive_03.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.166334
+mediane : 0.156620
+barycentre : [2.7687231994761663, 1.2680222365942142, 0.0017515311306190477]
+dist_G_origine : 3.045277
+ecart_type : 15.565009
+coeff_var : 4.915783
+Taux de Faux positifs : 16.666667 %
+Taux de Vrais positifs : 12.544803 %
+
+
+
+Result/final_archive_04.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.095731
+mediane : 0.245748
+barycentre : [2.7068431940253252, 1.2402372156765116, 0.00175157296122093]
+dist_G_origine : 2.977447
+ecart_type : 15.389760
+coeff_var : 4.971284
+Taux de Faux positifs : 16.279070 %
+Taux de Vrais positifs : 12.903226 %
+
+
+
+Result/final_archive_05.out_modif
+
+max_sigmax : 97.974408
+min_sigmax : 0.026092
+max_sigmay : 28.452883
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001711
+max_rac_sigmas : 102.022307
+min_rac_sigmas : 0.038073
+moyenne : 3.095731
+mediane : 0.059968
+barycentre : [2.7068431940253244, 1.2402372156765118, 0.0017515729612209297]
+dist_G_origine : 2.977447
+ecart_type : 15.389760
+coeff_var : 4.971284
+Taux de Faux positifs : 16.279070 %
+Taux de Vrais positifs : 12.903226 %
+
+
+
+Result/final_archive_06.out_modif
+
+max_sigmax : 1.314812
+min_sigmax : 0.026092
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.245127
+mediane : 0.139119
+barycentre : [0.16494419207766667, 0.1732055501568462, 0.001746905406817949]
+dist_G_origine : 0.239186
+ecart_type : 0.305153
+coeff_var : 1.244877
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/final_archive_07.out_modif
+
+max_sigmax : 294.093772
+min_sigmax : 0.026092
+max_sigmay : 1277.100028
+min_sigmay : 0.027509
+max_sigmaz : 0.001779
+min_sigmaz : 0.001525
+max_rac_sigmas : 1310.524944
+min_rac_sigmas : 0.038073
+moyenne : 53.523485
+mediane : 0.204703
+barycentre : [22.799072092184524, 45.427009256664775, 0.0017478960476863638]
+dist_G_origine : 50.827265
+ecart_type : 210.720288
+coeff_var : 3.936969
+Taux de Faux positifs : 9.090909 %
+Taux de Vrais positifs : 14.336918 %
+
+
+
+Result/final_archive_08.out_modif
+
+max_sigmax : 294.093772
+min_sigmax : 0.026092
+max_sigmay : 1277.100028
+min_sigmay : 0.027509
+max_sigmaz : 0.001779
+min_sigmaz : 0.001525
+max_rac_sigmas : 1310.524944
+min_rac_sigmas : 0.038073
+moyenne : 46.437912
+mediane : 0.155363
+barycentre : [19.593891591214977, 38.9646079522885, 0.0017476675194666668]
+dist_G_origine : 43.613774
+ecart_type : 208.485602
+coeff_var : 4.489556
+Taux de Faux positifs : 7.142857 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
+Result/final_archive_09.out_modif
+
+max_sigmax : 294.093772
+min_sigmax : 0.026092
+max_sigmay : 1277.100028
+min_sigmay : 0.027509
+max_sigmaz : 0.001779
+min_sigmaz : 0.001525
+max_rac_sigmas : 1310.524944
+min_rac_sigmas : 0.038073
+moyenne : 53.523485
+mediane : 156.418051
+barycentre : [22.79907209218452, 45.427009256664775, 0.0017478960476863638]
+dist_G_origine : 50.827265
+ecart_type : 210.720288
+coeff_var : 3.936969
+Taux de Faux positifs : 9.090909 %
+Taux de Vrais positifs : 14.336918 %
+
+
+
+Result/final_archive_10.out_modif
+
+max_sigmax : 1.314812
+min_sigmax : 0.026092
+max_sigmay : 0.832829
+min_sigmay : 0.027509
+max_sigmaz : 0.001753
+min_sigmaz : 0.001525
+max_rac_sigmas : 1.501473
+min_rac_sigmas : 0.038073
+moyenne : 0.245127
+mediane : 0.059968
+barycentre : [0.16494419207766667, 0.17320555015684616, 0.0017469054068179489]
+dist_G_origine : 0.239186
+ecart_type : 0.305153
+coeff_var : 1.244877
+Taux de Faux positifs : 0.000000 %
+Taux de Vrais positifs : 13.978495 %
+
+
+
